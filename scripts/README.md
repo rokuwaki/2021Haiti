@@ -8,4 +8,8 @@
 - Finer resolution topography can be downloaded and processed with [topo.sh](https://github.com/rokuwaki/2021Haiti/blob/main/scripts/topo.sh)
 
 ### SAC files
-- Waveform data used in finite-fault inversion can be downloaded with [fetchSAC.py](https://github.com/rokuwaki/2021Haiti/blob/main/scripts/fetchSAC.py)
+- finite-fault inversion
+  - Waveform data used in finite-fault inversion can be downloaded with [fetchSAC.py](https://github.com/rokuwaki/2021Haiti/blob/main/scripts/fetchSAC.py)
+
+- back-projection
+  - Waveform data used for back-projection can be downloaded from the [link](https://drive.google.com/file/d/15eeOi27fZxEJvCyFKIGfz2H0tdcVEd-i/view?usp=sharing)
