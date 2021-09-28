@@ -1,0 +1,4 @@
+210822074516 # 30-s-long model, optimum
+210922064542 # synthetic test of 210822074516
+210925021626 # same as 210822074516, purely vertical plane
+210925034234 # same as 210822074516, purely horizontal plane
